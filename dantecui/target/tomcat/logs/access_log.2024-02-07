@@ -1,0 +1,9 @@
+127.0.0.1 - - [07/Feb/2024:17:50:31 +0100] "GET /dantecui/a-propos.jsp HTTP/1.1" 200 6937 http-bio-8080-exec-1 1176
+127.0.0.1 - - [07/Feb/2024:17:50:33 +0100] "GET /dantecui/connexion.jsp HTTP/1.1" 200 5040 http-bio-8080-exec-3 172
+127.0.0.1 - - [07/Feb/2024:17:50:46 +0100] "POST /dantecui/connexion HTTP/1.1" 302 - http-bio-8080-exec-4 3451
+127.0.0.1 - - [07/Feb/2024:17:50:46 +0100] "GET /dantecui/menu.jsp HTTP/1.1" 200 3836 http-bio-8080-exec-5 110
+127.0.0.1 - - [07/Feb/2024:17:50:50 +0100] "GET /dantecui/services.jsp HTTP/1.1" 200 8643 http-bio-8080-exec-6 172
+127.0.0.1 - - [07/Feb/2024:17:50:54 +0100] "GET /dantecui/formulaireConsultation HTTP/1.1" 200 7327 http-bio-8080-exec-7 260
+127.0.0.1 - - [07/Feb/2024:17:51:00 +0100] "GET /dantecui/logout HTTP/1.1" 302 - http-bio-8080-exec-8 0
+127.0.0.1 - - [07/Feb/2024:17:51:00 +0100] "GET /dantecui/connexion.jsp HTTP/1.1" 200 5040 http-bio-8080-exec-9 0
+127.0.0.1 - - [07/Feb/2024:17:51:02 +0100] "GET /dantecui/a-propos.jsp HTTP/1.1" 200 6937 http-bio-8080-exec-10 16
